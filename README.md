@@ -4,10 +4,13 @@ This is an example of a [smart contract](https://en.wikipedia.org/wiki/Smart_con
 
 Here is my three step process:
 
-### Staep 1 - Write a simple Smart Contract using Solidity 0.4.24:
+### Step 1 - Write a simple contract including Solidity 0.4.24:
+<img src="images/01.png">
 
-### Step 2 - Compile using compiler v0.4.25:
+### Step 2 - Compile using v0.4.25:
+<img src="/images/02.png">
 
 ### Step 3 - Run using JavaScript VM (Test Blockchain within browser):
+<img src="images/03.png">
 
-[Reference](https://www.dappuniversity.com/articles/solidity-tutorial)
+[Detailed read](https://www.dappuniversity.com/articles/solidity-tutorial)
