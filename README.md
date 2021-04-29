@@ -1,4 +1,4 @@
-# Ethereum Contract Example
+# Ethereum Smart Contract
 
 This is an example of a [smart contract](https://en.wikipedia.org/wiki/Smart_contract) written in [Solidity](https://docs.soliditylang.org) using [Remix IDE](https://remix.ethereum.org). This contract can be deployed and run on [Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum) Blockchain.
 
