@@ -13,4 +13,4 @@ Here is my three step process:
 ### Step 3 - Run using JavaScript VM (Test Blockchain within browser):
 <img src="images/03.png">
 
-[Detailed read](https://www.dappuniversity.com/articles/solidity-tutorial)
+You can read further about writing contracts [here](https://www.dappuniversity.com/articles/solidity-tutorial).
